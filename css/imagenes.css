@@ -5,7 +5,7 @@ section{
   }
   section img{
     width: 0px;
-    flex-grow: 1;
+    flex-grow: 8;
     object-fit: cover;
     opacity: .8;
     transition: .5s ease;
