@@ -178,5 +178,15 @@
             "id": "pantalones"
         },
         "precio": 100
+    },
+    {
+        "id": "internacional-06",
+        "titulo": "Camiseta Sport Boy",
+        "imagen": "./img/pantalones/06.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "pantalones"
+        },
+        "precio": 100
     }
 ]
