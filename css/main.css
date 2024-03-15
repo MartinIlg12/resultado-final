@@ -265,16 +265,29 @@ main {
     border-bottom-left-radius: 1rem;
     gap: 1rem;
 }
+.swal2-confirm-green {
+    background-color: #4CAF50 !important;
+}
+
 
 .carrito-acciones-comprar {
     border: 0;
-    background-color: var(--clr-main);
+    background-color: #008000;
     padding: 1rem;
     color: var(--clr-white);
     text-transform: uppercase;
     cursor: pointer;
     border-top-right-radius: 1rem;
     border-bottom-right-radius: 1rem;
+}
+.carrito-acciones-validar {
+    border: 0;
+    background-color: #961818;
+    padding: 1rem;
+    color: var(--clr-white);
+    text-transform: uppercase;
+    cursor: pointer;
+
 }
 
 .header-mobile {
