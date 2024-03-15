@@ -1,0 +1,182 @@
+[
+    {
+        "id": "ecuador-01",
+        "titulo": "Ecuador Eliminatorias Home",
+        "imagen": "./img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 80
+    },
+    {
+        "id": "ecuador-02",
+        "titulo": "Ecuador Copa America Away",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 75.50
+    },
+    {
+        "id": "ecuador-03",
+        "titulo": "Ecuador Eliminatorias Away",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 75.50
+    },
+    {
+        "id": "ecuador-04",
+        "titulo": "Ecuador Copa America Home",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 80
+    },
+    {
+        "id": "ecuador-05",
+        "titulo": "Ecuador Portero Eliminatorias",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 65
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Camiseta Barcelona Home",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 70.50
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Camiseta Emelec Home",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 80
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Camiseta Liga Home",
+        "imagen": "./img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 70.50
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Camiseta IDV Home",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 65
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Camiseta U. Católica Home",
+        "imagen": "./img/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 65
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Camiseta Guayaquil City Home",
+        "imagen": "./img/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 55
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Camiseta Emelec Away",
+        "imagen": "./img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 70
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Camiseta Barcelona Away",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 70
+    },
+    {
+        "id": "internacional-01",
+        "titulo": "Camiseta PSG Home",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 90.50
+    },
+    {
+        "id": "internacional-02",
+        "titulo": "Camiseta Barcelona Third",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 80
+    },
+    {
+        "id": "internacional-03",
+        "titulo": "Camiseta Chelsea Third",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 85
+    },
+    {
+        "id": "internacional-04",
+        "titulo": "Camiseta Liverpool Home",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 100
+    },
+    {
+        "id": "internacional-05",
+        "titulo": "Camiseta A. de Madrid Home",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 100
+    }
+]
